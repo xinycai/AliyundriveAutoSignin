@@ -1,4 +1,4 @@
-// 请在下面填入具体的 refresh_token
+// 请在下面填入具体的 refresh_token和botToken,chatId
 const refreshToken = 'fa96c2e83324415XXXXXXXXXXXXXXXXXXXX';
 const botToken = 'XXXXXXX056:AAGx5nFaIoXXXXXXXXXXXXXX0fLU';
 const chatId = '5XXXX63';
